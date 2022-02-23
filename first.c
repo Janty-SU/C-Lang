@@ -2,6 +2,5 @@
 int main()
 {
     printf("car");
-
     printf("bike");
 }
