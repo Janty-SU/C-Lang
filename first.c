@@ -7,6 +7,8 @@ int main()
     if (a == 1)
     {
         printf("samosa");
+        printf("pizza");
+        printf("burger");
     }
     else
     {
