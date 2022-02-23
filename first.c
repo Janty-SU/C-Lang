@@ -6,4 +6,11 @@ int main()
     printf("bike");
 
     printf("pen");
+<<<<<<< HEAD
     printf("cycle");
+=======
+    printf("cycle");
+
+    printf("second changes done in pen ")
+}
+>>>>>>> pen
