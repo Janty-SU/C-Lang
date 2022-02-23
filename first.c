@@ -1,16 +1,15 @@
 #include <stdio.h>
 int main()
 {
+    int a;
+    scanf("%d", &a);
 
-    printf("car");
-    printf("bike");
-
-    printf("pen");
-<<<<<<< HEAD
-    printf("cycle");
-=======
-    printf("cycle");
-
-    printf("second changes done in pen ")
+    if (a == 1)
+    {
+        printf("samosa");
+    }
+    else
+    {
+        printf("homework");
+    }
 }
->>>>>>> pen
