@@ -2,6 +2,7 @@
 int main()
 {
     int n, reversed = 0, remainder, original;
+    printf("hello world");
     printf("Enter an integer: ");
     scanf("%d", &n);
     original = n;
