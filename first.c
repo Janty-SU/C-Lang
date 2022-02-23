@@ -5,4 +5,5 @@ int main()
     printf("bike");
 
     printf("pen");
+    printf("cycle");
 }
