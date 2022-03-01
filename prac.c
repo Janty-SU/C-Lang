@@ -1,3 +1,14 @@
+/**
+ * @file prac.c
+ * @author Jayanth
+ * @brief  Area of the circle
+ * @version 0.1
+ * @date 2022-03-01
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
+
 #include <stdio.h>
 int main()
 {
@@ -10,12 +21,7 @@ int main()
 
     printf("the area of the circle is : %f", area);
 
-    return 0;
-}
-
-#include <stdio.h>
-int main()
-{
+    /* This is the area of the triangle*/
     int h, b;
     printf("enter the hieght and base  of the triangle:");
     scanf("%d %d", &b, &h);
@@ -26,5 +32,3 @@ int main()
 
     return 0;
 }
-
-Jayanth Kumar
